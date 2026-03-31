@@ -52,7 +52,7 @@
 
 ##  Experience
 
-###**Ready Talent** - Data Engineer Trainee
+### **Ready Talent** - Data Engineer Trainee
 
 * Proficient in designing and managing ETL and ELT pipelines for efficient data integration.
 * Experienced in using Apache Airflow for orchestrating workflows and automating data pipelines.
