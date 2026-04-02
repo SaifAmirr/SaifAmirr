@@ -1,85 +1,57 @@
-# Hi, I'm Saif 👋
+---
 
-**Data Engineering | AI & Machine Learning Enthusiast**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&pause=2000&center=true&vCenter=true&random=false&width=1200&height=80&lines=✨+Welcome+to+Saif's+Github+✨)](https://git.io/typing-svg)
+
+### Data Engineering | AI & Machine Learning Enthusiast
+
+[![coding](https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylukh-.gif?1596125112)](https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylukh-.gif?1596125112)
+
+&nbsp;
+
+[![SaifAmirr](https://komarev.com/ghpvc/?username=SaifAmirr&label=Profile%20views&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=SaifAmirr&label=Profile%20views&color=0e75b6&style=flat)
+
+- 🌱 I'm actively enhancing my skills and expertise in the **Data Engineering & AI/ML field**.
+
+&nbsp;
 
 ---
 
-##  About Me
+### How to reach me:
 
-*  Computer Engineering student
-*  Former intern at **Orange Egypt (Integration Development)**
-*  Passionate about building **data-driven systems** and scalable pipelines
-*  Strong interest in **Machine Learning, Deep Learning, and applied AI**
-*  Focused on turning raw data into **meaningful insights and intelligent systems**
+[![gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:saif.1000.ebrahim@gmail.com)
 
----
+### Know more about me:
 
-##  Tech Stack
+[![saif_amir](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/saif-amir-77b77a213/)
 
-###  Data Engineering
-
-* Python, SQL
-* PostgreSQL, BigQuery
-* Apache Airflow, dbt
-* ETL/ELT Pipelines, Data Modeling
-
-###  AI & Machine Learning
-
-* TensorFlow, Keras, Scikit-learn
-* CNNs, Deep Learning
-* Data preprocessing & feature engineering
-* Model training, evaluation & deployment basics
-
-###  Backend & Tools
-
-* FastAPI, Spring Boot
-* Git, Docker
-* Google Cloud Platform
+&nbsp;
 
 ---
 
-##  Featured Projects
+&nbsp;
 
+# ⚒️ Languages-Frameworks-Tools ⚒️
 
-###  Data Pipeline: PostgreSQL → BigQuery
+&nbsp;
 
-* Designed and implemented ETL pipeline
-* Automated workflows using **Apache Airflow**
-* Transformed and modeled data for analytics
+[![](https://skillicons.dev/icons?i=python,postgresql,tensorflow,sklearn)](https://skillicons.dev/icons?i=python,postgresql,tensorflow,sklearn)
 
+[![](https://skillicons.dev/icons?i=fastapi,spring,docker,gcp)](https://skillicons.dev/icons?i=fastapi,spring,docker,gcp)
 
----
+[![](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev/icons?i=git,github,vscode)
 
-##  Experience
-
-### **Ready Talent** - Data Engineer Trainee
-
-* Proficient in designing and managing ETL and ELT pipelines for efficient data integration.
-* Experienced in using Apache Airflow for orchestrating workflows and automating data pipelines.
-* Expertise in Google BigQuery for large-scale data analytics and management.
-* Strong knowledge of Google Cloud Platform (GCP) for building scalable cloud-based solutions.
-
-### **Orange Egypt** – Integration Development Intern
-
-* Worked with **webMethods** for enterprise system integration
-* Gained experience in APIs and data flow between systems
-
+&nbsp;
 
 ---
 
-##  What I'm Currently Focused On
+&nbsp;
 
-*  Building scalable **data pipelines**
-*  Improving **ML model performance & deployment**
-*  Working with **cloud-based data systems (GCP, AWS, Azure, ...)**
+# Statistics:
 
----
+&nbsp;
 
-## 📫 Contact Me
+[![streak stats](https://github-readme-streak-stats-salesp07.vercel.app/?user=SaifAmirr&count_private=true&theme=react&border_radius=10)](https://github-readme-streak-stats-salesp07.vercel.app/?user=SaifAmirr&count_private=true&theme=react&border_radius=10)
 
-* LinkedIn: https://www.linkedin.com/in/saif-amir-77b77a213/
-* Email: saif.1000.ebrahim@gmail.com
+[![readme stats](https://github-readme-stats-salesp07.vercel.app/api?username=SaifAmirr&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)](https://github-readme-stats-salesp07.vercel.app/api?username=SaifAmirr&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
 
----
-
-⭐ *Always open to internships and opportunities in Data Engineering & AI/ML*
+[![top langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SaifAmirr&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SaifAmirr&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
